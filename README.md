@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Engineering Senior at NUST (Class of '26) with a 3.51 CGPA and over 2 years of experience building production-grade applications. Specializing in the MERN stack and Next.js, I pride myself on the ability to ship full-stack features with high velocity—transitioning seamlessly from robust REST API design to responsive, pixel-perfect UIs. Beyond traditional web dev, I am actively hands-on with LLM integration and Voice APIs, focusing on bridging the gap between scalable backend architecture and the next generation of AI-driven user experiences.
+I am a Software Engineering Student at NUST over 2 years of experience building production-grade applications. Specializing in the MERN stack and Next.js, I pride myself on the ability to ship full-stack features with high velocity—transitioning seamlessly from robust REST API design to responsive, pixel-perfect UIs. Beyond traditional web dev, I am actively hands-on with LLM integration and Voice APIs, focusing on bridging the gap between scalable backend architecture and the next generation of AI-driven user experiences.
 
 
 ## 🌐 Socials:
